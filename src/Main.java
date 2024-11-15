@@ -30,7 +30,7 @@ public class Main
                         "Monthly Salery: DKK " + programmer1.getSalary() + "\n"  +
                         "Yearly Bonus: DKK " + programmer1.totalBonus() + "\n" +
                         "Total Annual Income: DKK " + programmer1.totalIncome() +"\n" +
-                        "Total Annual Income: DKK " + programmer1.totalExpense() + "\n"
+                        "Total Annual Income+ Bonus: DKK " + programmer1.totalExpense() + "\n"
         );
 
 
